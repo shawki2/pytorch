@@ -1,1 +1,1 @@
-a simple example of PyTorch. https://pytorch.org/
+A simple example of PyTorch. https://pytorch.org/
